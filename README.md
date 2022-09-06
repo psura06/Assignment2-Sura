@@ -18,3 +18,15 @@ Nearest Airport to National Museum is:
 3. Head southwest on Indira Gandhi road.
 4. Take second exit onto Akbar Rd.
 5. Turn towords Janpath road and continue staright and we can find it towords right.
+<br>
+
+* Places that must vist around the Museum which is great tourist exposure.
+    - India Gate.
+    - Jantar Mantar.
+    - National Gallery of Modern Art.
+    - Parliament Of India.
+    - Red Fort.
+    - Akshardham.
+    - Lotus Temple.
+    - Jama Masjid.
+
