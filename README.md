@@ -47,3 +47,12 @@ Nearest Airport to National Museum is:
 | Gokarna     | Mugdeshwar  |   4 Hrs       |
 
 
+<br>
+
+---
+# Quotes
+
+> There is always light. If only we're brave enough to see it. If only we're brave enough to be it.   - *Amanda Gorman*
+
+> If you want to lift yourself up, lift up someone else. - *Booker T. Washington*
+
