@@ -33,3 +33,17 @@ Nearest Airport to National Museum is:
 
    **[Link of the Image from AboutMe.md](AboutMe.md)**
 
+
+---
+
+# Cities I recommend  to visti 
+### The table below can breif about the location and time to visit that place
+
+| City Name   | Location    | Time          |
+| :---        |    :----:   |          ---: |
+| Agra        |  Taj Mahal  |   2 Hrs       |
+| Hyderabad   | Charminar   |   3 Hrs       |
+| Maharatra   |Mahabaleshwar|   3 Hrs       |
+| Gokarna     | Mugdeshwar  |   4 Hrs       |
+
+
