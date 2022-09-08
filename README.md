@@ -56,3 +56,17 @@ Nearest Airport to National Museum is:
 
 > If you want to lift yourself up, lift up someone else. - *Booker T. Washington*
 
+<br>
+
+---
+
+**Custom Error Pages**
+
+> I need to load the sample error page:- for my abc.com site: <https://stackoverflow.com/questions/18759390/404-custom-error-page>
+
+```
+ErrorDocument 400 /400.html
+ErrorDocument 401 /401.html
+ErrorDocument 403 /403.html
+```
+<https://css-tricks.com/snippets/htaccess/custom-error-pages/>
